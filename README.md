@@ -4,7 +4,7 @@
 
 ### :hammer: About the application
 
-App developed in React Native, which creates a guest list for an event, with an add and remove function.
+In this application we create a guest list for events, with the function of adding and removing with React Native using Expo Manager Workflow and we learn about the most important concepts of React and React Native, among them are componentization, states, immutability, hooks, and how React Native renders native interfaces. In addition to applying Typescript in the project to add static typing to the application.
 
 </br>
 </br>
