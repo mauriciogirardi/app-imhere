@@ -27,6 +27,9 @@ In this application we create a guest list for events, with the function of addi
   # clone the project
   git clone https://github.com/mauriciogirardi/app-imhere.git
 
+  # open project
+  cd app-imhere
+
   # install dependencies
   npm i
 
